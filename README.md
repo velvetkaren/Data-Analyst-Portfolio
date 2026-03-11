@@ -6,11 +6,11 @@ This repository contains projects demonstrating my skills in:
 - Data Analysis
 - Data Visualisation
 - Excel Dashboard
+- Tableau
+- Microsoft Power BI
 
-The full portfolio with explanations, dashboards, and insights can be viewed in the PDF below.
+The full portfolio with explanations, dashboards, and insights can be viewed in the PDF file.
 
-Portfolio:
-Portfolio.pdf
 
 Projects Included
 
@@ -27,6 +27,7 @@ Tools Used
 
 SQL
 Excel
-Power BI / Tableau
+Power BI 
+Tableau
 Data Visualisation
 Data Analysis
